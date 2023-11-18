@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/brunomangueira">Bruno Mangueira</a>, <a href="https://github.com/clicaro">Icaro Luiz Dellalo Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Othon Gonçalvess </a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor </a> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor de Quiroz</a>
 ## Descrição
 
 <p align="center">
