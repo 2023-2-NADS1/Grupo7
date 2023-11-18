@@ -21,11 +21,12 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+
+O projeto Ambiente Project visa alcançar os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, especificamente o ODS 2 - Fome Zero e Agricultura Sustentável. 
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Trata-se de um sensor de umidade de solo integrado a um sistema de irrigação automatizado. Este dispositivo proporcionará aos agricultores uma gestão eficiente da irrigação, otimizando o uso da água e promovendo práticas agrícolas sustentáveis. 
 <br><br>
-May the force be with you!
+Ao garantir a adequada umidade do solo, o projeto contribui para o aumento da produtividade agrícola, reduzindo desperdícios e fortalecendo a segurança alimentar, alinhando-se assim aos objetivos globais de erradicar a fome e promover uma agricultura sustentável.
 <br><br>
 
 ## 🛠 Estrutura de pastas
