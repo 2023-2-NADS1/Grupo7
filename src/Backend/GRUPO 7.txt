@@ -1,0 +1,41 @@
+// C++ code
+//
+
+int sensorsolo = 25;
+int bomba = 23;
+int valorsensorsolo = 0;
+int portLedvio1=18;
+int portLedvio2=19;
+int portLedvio3=21;
+int portLedvio4=22;
+
+void setup()
+{
+  Serial.begin(115200);
+  pinMode(sensorsolo, INPUT);
+  pinMode(bomba, OUTPUT);
+  pinMode(portLedvio1, OUTPUT);
+  pinMode(portLedvio2, OUTPUT);
+  pinMode(portLedvio3, OUTPUT);
+  pinMode(portLedvio4, OUTPUT);
+  
+}
+
+
+void loop()
+{
+  digitalWrite(portLedvio1, HIGH);
+  digitalWrite(portLedvio2, HIGH);
+  digitalWrite(portLedvio3, HIGH);
+  digitalWrite(portLedvio4, HIGH);
+  valorsensorsolo = analogRead(sensorsolo);
+  Serial.print("valor sensor: ");
+  Serial.println(valorsensorsolo);
+  if(valorsensorsolo > 2500){ //Se o valor de valorldr for menor que 500:
+    digitalWrite(bomba, HIGH);//Coloca led em alto para acioná-lo
+  }  
+  else{ //Senão: 
+    digitalWrite(bomba, LOW);
+                 }
+  
+}
