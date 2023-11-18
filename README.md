@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Sensor de Umidade de solo integrado a um sistema de irrigação 
+# Sensor de Umidade de Solo Integrado com Sistema de Irrigação 
 
-## AMBIENTE PROJET
+## AMBIENTE PROJECT
 
 ## Integrantes: <a href="https://github.com/brunomangueira">Bruno Mangueira</a>, <a href="https://github.com/clicaro">Icaro Luiz Dellalo Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Othon Gonçalvess </a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor </a> 
 
