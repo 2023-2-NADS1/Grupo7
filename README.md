@@ -99,7 +99,7 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 1.2 - 21/11/2022
+* 1.2 - 21/11/2023
     * codigo concluido
     * bomba funcionando com rele
 * 1.1 - 17/11/2023
