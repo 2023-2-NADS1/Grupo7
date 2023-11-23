@@ -8,7 +8,7 @@
 
 ## AMBIENTE PROJECT
 
-## Integrantes: <a href="https://github.com/brunomangueira">Bruno Mangueira</a>, <a href="https://github.com/clicaro">Icaro Luiz Dellalo Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Othon Gonçalves Viana </a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor dos Santos </a> 
+## Integrantes: <a href="https://github.com/brunomangueira">Bruno Mangueira</a>, <a href="https://github.com/clicaro">Icaro Luiz Dellalo Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Othon Gonçalves Viana </a>, <a href="https://www.linkedin.com/in/victorbarq/">Vitor Rodrigues dos Santos </a> 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor de Quiroz</a>
 ## Descrição
