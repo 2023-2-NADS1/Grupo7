@@ -101,15 +101,16 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 * 0.2.1 - 25/01/2022
     * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
+* 1.3 - 15/01/2022
     * MUDANÇA: Remove `setDefaultXYZ()`
     * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 1.2 - 21/11/2022
+    * codigo concluido
+    * bomba funcionando com rele
+* 1.1 - 17/11/2023
+    * codigo em andamento 
+    * MUDANÇA: utilizar rele
+* 1.0 - 01/11/2023
     * Trabalho em andamento
 
 ## 📋 Licença/License
