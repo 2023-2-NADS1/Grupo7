@@ -61,14 +61,23 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Lista de materiais e equipamentos utilizados  
 
 Esp-32.
+
 Sensor de Umidade de Solo para Arduino.
+
 Mini Bomba de Água para Arduino.
+
 Módulo Relé 5V 10A 1 Canal com Optoacoplador.
+
 Fonte 5V para bomba submersa.
+
 Mangueira para Aquário.
+
 Cabos Flexível.
+
 Leds 5mm - Ultravioleta UV Roxo.
+
 Mini gaveteiro de plástico.
+
 Planta suculenta.
 
 
